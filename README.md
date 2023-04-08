@@ -20,11 +20,8 @@ Free & open-source with no ads or data-collection! 💚
 </ul>
 
 <h4>Supported platforms</h4>
-    - Android 
-    - Ios
-    - Web 
-    - Windows 
-    - Linux
+| **Support** |     Android    | iOS   |  Web  |  Windows  |  Linux  |
+|-------------|----------------|-------|-------|-----------|---------|
 
 ## Benfit👻
 - [🖥] # Screens 🖥
