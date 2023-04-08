@@ -43,7 +43,7 @@ Free & open-source with no ads or data-collection! 💚
 
 ## Snapshots
 
-| Splash Screen | Welcome Screen|
+| Splash Screen | Welcome Screen| <br><br>
 <img src="https://github.com/ravitaak/weather_app/blob/master/assets/example.jpg" width="500">
 
 
