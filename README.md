@@ -58,4 +58,4 @@ This project would not be possible without [location](https://pub.dev/packages/l
 ### License
 
 TLDR;
-Youtube Video Downloader is a Free Software: Do whatever you want with this privately for your own use and do public the source code with same license when you release it for public / when you use it commercially.
+Weather App is a Free Software: Do whatever you want with this privately for your own use and do public the source code with same license when you release it for public / when you use it commercially.
