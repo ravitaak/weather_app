@@ -19,9 +19,12 @@ Free & open-source with no ads or data-collection! 💚
     <li>Provides features like humidity, wind, temp</li>
 </ul>
 
-<h4>Supported platforms</h4>
-| **Support** |     Android    | iOS   |  Web  |  Windows  |  Linux  |
-|-------------|----------------|-------|-------|-----------|---------|
+## Supported platforms
+        - Android 
+        - Ios
+        - Web 
+        - Windows 
+        - Linux
 
 ## Benfit👻
 - [🖥] # Screens 🖥
